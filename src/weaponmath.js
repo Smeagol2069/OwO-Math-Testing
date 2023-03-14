@@ -17,7 +17,7 @@ function calculate(data) { // Returns an array (or string if rune/orb), 0 index 
     
 		let output = []
 		const statSum = 100 + data.stat.split(',').map(numStr => parseInt(numStr)).reduce(addArr)
-		const numberStats = widStats[wid].numstats
+		const numberStats = widStats[wid]
 		output[0] = (statSum / numberStats)
 		output[1] = ((statSum + 100) / (numberStats + 1))
 	return output
