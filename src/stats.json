@@ -1,73 +1,21 @@
-{
-		"1": {
-				"numstats": 3,
-				"beststats": [0, 0]
-		},
-		"2": {
-				"numstats": 3,
-				"beststats": [0, 0]
-		},
-		"3": {
-				"numstats": 3,
-				"beststats": [0, 0]
-		},
-		"4": "Rune",
-		"5": {
-				"numstats": 3,
-				"beststats": [0, 0]
-		},
-		"6": "Orb",
-		"7": {
-				"numstats": 3,
-				"beststats": [0, 0]
-		},
-		"8": {
-				"numstats": 4,
-				"beststats": [0, 0]
-		},
-		"9": {
-				"numstats": 4,
-				"beststats": [0, 0]
-		},
-		"10": {
-				"numstats": 5,
-				"beststats": [0, 0]
-		},
-		"11": {
-				"numstats": 3,
-				"beststats": [0, 0]
-		},
-		"12": {
-				"numstats": 4,
-				"beststats": [0, 0]
-		},
-		"13": {
-				"numstats": 3,
-				"beststats": [0, 0]
-		},
-		"14": {
-				"numstats": 3,
-				"beststats": [0, 0]
-		},
-		"15": {
-				"numstats": 3,
-				"beststats": [0, 0]
-		},
-		"16": {
-				"numstats": 5,
-				"beststats": [0, 0]
-		},
-		"17": {
-				"numstats": 4,
-				"beststats": [0, 0]
-		},
-		"18": {
-				"numstats": 4,
-				"beststats": [0, 0]
-		},
-		"19":{
-				"numstats": 4,
-				"beststats": [0, 0]
-		}
+const widStats = {
+        1: 3,
+        2: 3,
+        3: 3,
+        4: "Rune",
+        5: 3,
+        6: "Orb",
+        7: 3,
+        8: 4,
+        9: 4,
+        10: 5,
+        11: 3,
+        12: 4,
+        13: 3,
+        14: 3,
+        15: 3,
+        16: 5,
+        17: 4,
+        18: 4,
+        19: 4
 }
-
